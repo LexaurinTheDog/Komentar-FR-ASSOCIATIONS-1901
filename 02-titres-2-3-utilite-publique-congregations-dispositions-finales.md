@@ -320,7 +320,7 @@ La NOTA précise que ces dispositions, dans leur rédaction résultant du titre 
 
 > (Abrogé à compter du 1981-10-10)
 
-L'article 22 ouvre le titre IV, intitulé « Des associations étrangères », dont la source conserve l'intitulé mais dont tous les articles (22 à 35) sont abrogés à compter du 10 octobre 1981. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure de ces articles, que le commentaire ne reconstitue pas. Depuis cette abrogation, la loi ne comporte plus de régime propre aux associations étrangères : leur situation relève des règles générales des titres Ier et II, notamment de l'article 5, dont le troisième alinéa règle la déclaration de l'association dont le siège est à l'étranger.
+L'article 22 ouvre le titre IV, intitulé « Des associations étrangères », dont la source conserve l'intitulé mais dont tous les articles (22 à 35) sont abrogés à compter du 10 octobre 1981. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure de ces articles, que le commentaire ne reconstitue pas. Depuis cette abrogation, la loi ne comporte plus de régime propre aux associations étrangères : la loi n'envisage plus leur situation qu'au travers de ses règles générales, notamment de l'article 5, dont le troisième alinéa règle la déclaration de l'association dont le siège est à l'étranger.
 
 ### Article 23
 
