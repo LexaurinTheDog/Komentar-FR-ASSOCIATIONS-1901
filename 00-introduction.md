@@ -1,6 +1,6 @@
 # Commentaire de la loi du 1er juillet 1901 relative au contrat d'association
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi du 1er juillet 1901 relative au contrat d'association, examinée article par article — **22 articles** dans leur rédaction consolidée en vigueur, y compris les articles insérés par des lois postérieures (2 bis, 9 bis, 21 bis, 21 ter). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi du 1er juillet 1901 relative au contrat d'association, examinée article par article — **39 articles** : les 22 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés par des lois postérieures (2 bis, 9 bis, 21 bis, 21 ter), ainsi que 17 articles abrogés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -14,14 +14,14 @@
 
 ## Structure de la loi et du commentaire
 
-La loi, texte fondateur du droit français des associations, est divisée en trois titres. Le **titre Ier** définit l'association comme un contrat à but non lucratif (art. 1er), consacre la liberté de constitution sans autorisation (art. 2), règle la situation des mineurs (art. 2 bis), la nullité pour objet illicite (art. 3), le droit de retrait des membres (art. 4), la déclaration et la publicité au Journal officiel (art. 5), la capacité juridique de l'association déclarée (art. 6), la dissolution judiciaire et les sanctions pénales (art. 7 et 8), la dévolution des biens (art. 9) et, depuis des réformes récentes, les fusions, scissions et apports partiels d'actif (art. 9 bis). Le **titre II** traite des associations reconnues d'utilité publique (art. 10 à 12). Le **titre III** concerne les congrégations religieuses (art. 13 à 18) et contient les dispositions finales : décret d'application, clause abrogatoire et réserve des lois spéciales, application outre-mer et à Mayotte (art. 20 à 21 ter).
+La loi, texte fondateur du droit français des associations, est divisée en trois titres en vigueur, auxquels s'ajoutait un titre IV aujourd'hui entièrement abrogé. Le **titre Ier** définit l'association comme un contrat à but non lucratif (art. 1er), consacre la liberté de constitution sans autorisation (art. 2), règle la situation des mineurs (art. 2 bis), la nullité pour objet illicite (art. 3), le droit de retrait des membres (art. 4), la déclaration et la publicité au Journal officiel (art. 5), la capacité juridique de l'association déclarée (art. 6), la dissolution judiciaire et les sanctions pénales (art. 7 et 8), la dévolution des biens (art. 9) et, depuis des réformes récentes, les fusions, scissions et apports partiels d'actif (art. 9 bis). Le **titre II** traite des associations reconnues d'utilité publique (art. 10 à 12). Le **titre III** concerne les congrégations religieuses (art. 13 à 18) et contient les dispositions finales : décret d'application, clause abrogatoire et réserve des lois spéciales, application outre-mer et à Mayotte (art. 20 à 21 ter). Le **titre IV** (« Des associations étrangères », art. 22 à 35) est abrogé dans son ensemble depuis le 10 octobre 1981.
 
 Le commentaire est réparti en deux chapitres :
 
 1. Titre Ier — Le contrat d'association, la déclaration et la capacité juridique, la dissolution et les opérations de restructuration (art. 1er à 9 bis) ;
-2. Titres II et III — Associations reconnues d'utilité publique, congrégations religieuses, dispositions finales et outre-mer (art. 10 à 21 ter).
+2. Titres II à IV — Associations reconnues d'utilité publique, congrégations religieuses, dispositions finales et outre-mer, associations étrangères (art. 10 à 35).
 
-Les articles qui ne figurent pas dans la version consolidée de la source (articles 14, 16 et 19) ne sont pas commentés ; lorsque d'autres articles y renvoient encore (article 17), le commentaire le signale. Les intitulés des titres apparaissent dans la source sans libellé (« Titre I. », « Titre II. », « Titre III. ») et sont repris tels quels comme repères de structure.
+Les articles abrogés (14, 16, 19 et 22 à 35) sont reproduits tels que la source les présente — avec la seule mention de la date d'abrogation — afin que la numérotation soit complète ; ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu antérieur. Lorsque d'autres articles y renvoient encore (article 17), le commentaire le signale. Les intitulés des titres apparaissent dans la source sans libellé (« Titre I. », « Titre II. », « Titre III. ») et sont repris tels quels comme repères de structure.
 
 ## Méthode
 

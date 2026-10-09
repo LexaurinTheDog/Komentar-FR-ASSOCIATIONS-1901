@@ -1,6 +1,6 @@
 # Commentaire de la loi du 1er juillet 1901 relative au contrat d'association
 
-Commentaire d'un texte de droit français : **loi du 1er juillet 1901 relative au contrat d'association** (JORF du 2 juillet 1901). Il couvre **22 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi du 1er juillet 1901 relative au contrat d'association** (JORF du 2 juillet 1901). Il couvre **39 articles** (22 articles en vigueur et 17 articles abrogés, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 1er janvier 2026).
 

@@ -1,4 +1,4 @@
-# Chapitre du commentaire 02 — Titres II et III — Associations reconnues d'utilité publique, congrégations religieuses, dispositions finales et outre-mer (art. 10 à 21 ter)
+# Chapitre du commentaire 02 — Titres II à IV — Associations reconnues d'utilité publique, congrégations religieuses, dispositions finales et outre-mer, associations étrangères (art. 10 à 35)
 
 #### Titre II
 
@@ -80,6 +80,14 @@ Le troisième alinéa règle la **dissolution** de la congrégation et la **supp
 
 Le régime des congrégations se distingue ainsi doublement de celui des associations : contrôle préalable au lieu de la liberté de constitution (art. 2), et dissolution administrative au lieu de la dissolution judiciaire (art. 7). L'article 15 impose aux congrégations des obligations comptables et de tenue de registres ; l'article 17 annule les actes destinés à contourner l'article 13. L'article 21 bis, I, rend la loi applicable dans les collectivités d'outre-mer et en Nouvelle-Calédonie, de sorte que le présent article y est également applicable.
 
+### Article 14
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1940-09-04)
+
+L'article 14 se situait au titre III, consacré aux congrégations religieuses, entre la reconnaissance légale des congrégations (article 13) et les obligations comptables et déclaratives qui leur incombent (article 15). La source ne le mentionne plus que comme abrogé à compter du 4 septembre 1940, sans indiquer le texte abrogatif ni reproduire sa rédaction, que le commentaire ne reconstitue pas. L'abrogation a une incidence sur l'article 17, qui frappe de nullité les actes ayant pour objet de soustraire une association aux « articles 2, 6, 9, 11, 13, 14 et 16 » : la référence à l'article 14 est aujourd'hui privée d'objet.
+
 ### Article 15
 
 **Texte de la disposition:**
@@ -100,7 +108,15 @@ Le troisième alinéa organise le **droit de communication** du préfet : la con
 
 Le quatrième alinéa sanctionne les **communications mensongères** et le **refus d'obtempérer** aux réquisitions du préfet en renvoyant aux peines « du paragraphe 2 de l'article 8 », c'est-à-dire trois ans d'emprisonnement et 45 000 euros d'amende. Les personnes punissables sont les représentants ou directeurs de la congrégation, à l'exclusion des simples membres. La sévérité de la sanction, alignée sur celle du maintien d'une association dissoute, souligne l'importance attachée par le législateur de 1901 au contrôle des congrégations.
 
-La numérotation passe de l'article 13 à l'article 15 : l'article 14 ne figure pas dans la version consolidée de la source, bien que l'article 17 y renvoie encore.
+L'article 14, qui suivait, est abrogé depuis 1940, bien que l'article 17 y renvoie encore.
+
+### Article 16
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1942-04-17)
+
+L'article 16, placé entre l'article 15 (comptabilité, liste des membres et contrôle préfectoral des congrégations) et l'article 17 (nullité des actes frauduleux), est abrogé à compter du 17 avril 1942 selon la source, qui ne précise pas le texte abrogatif et ne reproduit pas son contenu. Comme pour l'article 14, l'abrogation prive d'objet le renvoi que l'article 17 fait encore à l'article 16 ; la nullité prévue par ce dernier conserve en revanche toute sa portée à l'égard des articles 2, 6, 9, 11 et 13.
 
 ### Article 17
 
@@ -112,7 +128,7 @@ La numérotation passe de l'article 13 à l'article 15 : l'article 14 ne figure 
 
 L'article 17 est une disposition **anti-contournement** : il frappe de nullité tous les actes ayant pour objet de permettre aux associations, « légalement ou illégalement formées », de se soustraire à certaines dispositions de la loi.
 
-Le premier alinéa est rédigé de manière très large. Sont visés les actes **entre vifs ou testamentaires**, **à titre onéreux ou gratuit**, accomplis **directement**, **par personne interposée** ou par **toute autre voie indirecte**. Le critère décisif n'est pas la forme de l'acte mais son **objet** : permettre d'échapper aux règles des articles 2 (absence de capacité de l'association non déclarée), 6 (capacité limitée de l'association déclarée), 9 (dévolution des biens), 11 (capacité des associations reconnues d'utilité publique), 13 (reconnaissance des congrégations), ainsi que des articles 14 et 16, qui ne figurent plus dans la version consolidée de la source. Le renvoi à ces deux articles est donc aujourd'hui privé d'objet, sans que cela affecte la portée du texte à l'égard des autres dispositions visées.
+Le premier alinéa est rédigé de manière très large. Sont visés les actes **entre vifs ou testamentaires**, **à titre onéreux ou gratuit**, accomplis **directement**, **par personne interposée** ou par **toute autre voie indirecte**. Le critère décisif n'est pas la forme de l'acte mais son **objet** : permettre d'échapper aux règles des articles 2 (absence de capacité de l'association non déclarée), 6 (capacité limitée de l'association déclarée), 9 (dévolution des biens), 11 (capacité des associations reconnues d'utilité publique), 13 (reconnaissance des congrégations), ainsi que des articles 14 et 16, abrogés respectivement en 1940 et en 1942 selon la source. Le renvoi à ces deux articles est donc aujourd'hui privé d'objet, sans que cela affecte la portée du texte à l'égard des autres dispositions visées.
 
 La nullité vise typiquement la libéralité consentie à un membre ou à un tiers pour le compte d'une association qui ne pourrait la recevoir elle-même, ou l'acquisition par un prête-nom d'un immeuble excédant ce que permet l'article 6, 3°. L'article 18 se réfère expressément à la notion de « personnes interposées prévues par l'article 17 » pour la revendication des libéralités faites aux membres des congrégations.
 
@@ -163,6 +179,14 @@ Les alinéas suivants organisent la **liquidation judiciaire** des biens. Le tri
 Le texte règle ensuite les **droits de reprise et de revendication** : restitution aux congréganistes des biens qui leur appartenaient avant leur entrée ou leur sont échus par succession ou libéralité en ligne directe ; revendication des autres dons et legs à charge de prouver l'absence d'interposition au sens de l'article 17 ; reprise par le donateur ou ses héritiers des biens acquis à titre gratuit non affectés à une oeuvre d'assistance, sans prescription opposable ; maintien de l'affectation des biens destinés à une oeuvre d'assistance. Les actions doivent être formées contre le liquidateur dans les **six mois** de la publication du jugement, à peine de forclusion.
 
 Enfin, le produit des ventes est consigné à la Caisse des dépôts et consignations, l'entretien des pauvres hospitalisés constitue une créance privilégiée de liquidation, et le décret de l'article 20 détermine l'allocation versée aux congréganistes dépourvus de moyens d'existence. L'article 21 bis, I, exclut l'application du présent article dans les collectivités d'outre-mer et en Nouvelle-Calédonie.
+
+### Article 19
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1994-03-01)
+
+L'article 19 suivait, au titre III, la disposition transitoire de l'article 18 relative aux congrégations existant lors de la promulgation de la loi. La source le signale comme abrogé à compter du 1er mars 1994, sans mention du texte abrogatif ; son contenu n'est pas reproduit. Le titre III se poursuit avec les dispositions finales encore en vigueur : décret d'application (article 20), clause abrogatoire et réserve des lois spéciales (article 21), application outre-mer et à Mayotte (articles 21 bis et 21 ter).
 
 ### Article 20
 
@@ -287,3 +311,117 @@ Le 1° remplace, à l'article 5, la référence au département par celle du **D
 Contrairement à l'article 21 bis, le présent article ne contient pas de règle d'exclusion : la loi s'applique à Mayotte dans son ensemble, y compris les titres II et III, sous les seules réserves énoncées. Mayotte n'est pas visée par l'article 21 bis, qui ne concerne que les collectivités d'outre-mer de l'article 74 de la Constitution et la Nouvelle-Calédonie.
 
 La NOTA précise que ces dispositions, dans leur rédaction résultant du titre VI de la loi n° 2025-797 du 11 août 2025, entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2026. À la date de la version consolidée utilisée (2 octobre 2026), cette échéance est donc dépassée et la rédaction actuelle est applicable.
+
+#### Titre IV — Des associations étrangères
+
+### Article 22
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 22 ouvre le titre IV, intitulé « Des associations étrangères », dont la source conserve l'intitulé mais dont tous les articles (22 à 35) sont abrogés à compter du 10 octobre 1981. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure de ces articles, que le commentaire ne reconstitue pas. Depuis cette abrogation, la loi ne comporte plus de régime propre aux associations étrangères : leur situation relève des règles générales des titres Ier et II, notamment de l'article 5, dont le troisième alinéa règle la déclaration de l'association dont le siège est à l'étranger.
+
+### Article 23
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 23, deuxième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 24
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 24, troisième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 25
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 25, quatrième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 26
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 26, cinquième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 27
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 27, sixième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 28
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 28, septième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 29
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 29, huitième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 30
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 30, neuvième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 31
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 31, dixième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 32
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 32, onzième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 33
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 33, douzième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 34
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 34, treizième article du titre IV (« Des associations étrangères »), partage le sort de l'ensemble de ce titre : selon la source, il est abrogé à compter du 10 octobre 1981, sans indication du texte abrogatif. Son contenu antérieur n'est pas reproduit et n'est pas commenté. Il figure ici pour que la numérotation de la loi soit complète ; le régime des associations étrangères ne relève plus aujourd'hui de dispositions spéciales de la loi, mais de ses règles générales (voir le commentaire de l'article 22).
+
+### Article 35
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1981-10-10)
+
+L'article 35 est le dernier article de la loi dans sa numérotation d'origine et clôt le titre IV consacré aux associations étrangères. Comme les articles 22 à 34, il est abrogé à compter du 10 octobre 1981 selon la source, qui ne précise pas le texte abrogatif et ne reproduit pas son contenu. La loi se termine donc aujourd'hui, pour ce qui est des dispositions en vigueur, avec les articles 21 bis et 21 ter relatifs à l'outre-mer et à Mayotte.
